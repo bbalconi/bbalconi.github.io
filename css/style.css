@@ -3,7 +3,7 @@ body {
   background-color: #fafafa; }
 
 .navbar {
-  box-shadow: 2px 2px 5px #a6329c;
+  box-shadow: 2px 2px 5px rgb(31, 5, 61);
   background: #fff; }
   .navbar .nav-item {
     font-size: 1.2rem;
